@@ -10,8 +10,9 @@ This is a really simple model for a readme file
 
 ## Usage
 
-```<?php
-require once simpleReadme.php
+```
+<?php
+require once simpleReadme.php;
 
 ```
 
